@@ -4,4 +4,5 @@
 - How select all element
 - How to add class using JS
 - How to remove class using JS
+- Adding event listener on array of nodeList
 - Listening keydown and transitionend event
